@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="Project Electrified Cat"
+run/main_scene="uid://c5fgwpas32o8q"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
 
@@ -20,5 +21,6 @@ folder_colors={
 "res://Models/": "red",
 "res://Scenes/": "yellow",
 "res://Shaders/": "teal",
-"res://Sounds/": "purple"
+"res://Sounds/": "purple",
+"res://Textures/": "orange"
 }
